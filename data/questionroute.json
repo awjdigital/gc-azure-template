@@ -1,0 +1,35 @@
+{
+    "options": [{
+        "id": "10",
+        "parent": "0",
+        "question": "Do you have a concern about a gambling business or Alternative Dispute Resolution provider?"
+    }, {
+        "id": "20",
+        "parent": "0",
+        "question": "Are you a licence holder or applying for a licence?"
+    }, {
+        "id": "30",
+        "parent": "0",
+        "question": "Unsure if you need a licence to run a raffle, lottery or other game?"
+    }, {
+        "id": "40",
+        "parent": "0",
+        "question": "Do you have a general enquiry?"
+    }, {
+        "id": "50",
+        "parent": "10",
+        "question": "Are you unable to withdraw your money?"
+    }, {
+        "id": "60",
+        "parent": "10",
+        "question": "Do you have responsible gambling Concerns?"
+    }, {
+        "id": "70",
+        "parent": "60",
+        "question": "Concern about self-exclusion?"
+    }, {
+        "id": "SG",
+        "parent": "70",
+        "form": "true"
+    }]
+}
